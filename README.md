@@ -1,2 +1,2 @@
-#Learning to program Rust
-Program will requested Fibonacci numbers
+#Learning to program Rust#
+Program will print the requested amount of Fibonacci numbers
